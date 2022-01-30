@@ -1,17 +1,6 @@
 <!DOCTYPE html>
-<body>
-<div class="container">
-  <form class="four-oh-four-form">
-    <input type="text" class="404-input">
-  </form>
 
-  <div class="terminal">
-      <p class="prompt">The page you requested cannot be found right meow. Try typing 'kittens'.</p>
-      <p class="prompt output new-output"></p>
-  </div>
-</div>
-</body>
-<style>
+<head><style>
 
 @import "bourbon";
 
@@ -247,3 +236,18 @@ function resetForm(withKittens){
 	};
   
 </script>
+
+</head>
+
+<body>
+<div class="container">
+  <form class="four-oh-four-form">
+    <input type="text" class="404-input">
+  </form>
+
+  <div class="terminal">
+      <p class="prompt">The page you requested cannot be found right now. <a href="#">Go to the Homepage</a> or Try typing 'kittens'.</p>
+      <p class="prompt output new-output"></p>
+  </div>
+</div>
+</body>
