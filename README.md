@@ -2,6 +2,7 @@
 Website for the Tinkering Club of Ryan Vasant Kunj
 
 # **Version 1.5**
+9th February 2022
 
 # Known Issues (v 1.5) -
 
@@ -33,6 +34,7 @@ If you find any other bugs apart from this letme know.
 
 
 # **Version 1.0**
+28th January 2022
 
 # Known Issues (v 1.0) -
 
