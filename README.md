@@ -11,13 +11,14 @@ Website for the Tinkering Club of Ryan Vasant Kunj
 > 4. Menu page on mobile is not in the centre.
 > 5. [new] Images Don't Load in Properly in a few specific places.
 > 6. [new] Overlap in ATL Innovations Section on Mobile
+> 7. [new] "Read More" Under Blogposts leads to a broken page
 
 # Fixes (v 1.5)
 
 > 1. "Page 1" in the navbar replaced with a functional nav bar
 > 2. "Our Team" Page now display's Akhilesh's picture
 > 3. "Alumni" Section on mobile is optimised now.
-> 4. Everything Looks a normal on mobile now.
+> 4. Everything Looks normal on mobile now.
 > 5. Missleading Links now replaced with "#"
 
 # Pending Work -
