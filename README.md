@@ -1,7 +1,7 @@
 # Createch Website
 Website for the Tinkering Club of Ryan Vasant Kunj
 
-#**Version 1.5**
+# **Version 1.5**
 
 # Known Issues (v 1.5) -
 
@@ -9,6 +9,7 @@ Website for the Tinkering Club of Ryan Vasant Kunj
 > 2. Photos Missing in right side of "Archive" Section
 > 3. Juttered Scrolling Occasionally 
 > 4. Menu page on mobile is not in the centre.
+> 5. [new] Images Don't Load in Properly in a few specific places.
 
 # Fixes (v 1.5)
 
@@ -18,7 +19,7 @@ Website for the Tinkering Club of Ryan Vasant Kunj
 > 4. Everything Looks a normal on mobile now.
 > 5. Missleading Links now replaced with "#"
 
-#Pending Work -
+# Pending Work -
 
 > 1. Categories Page
 > 2. Archive Page
@@ -29,7 +30,7 @@ If you find any other bugs apart from this letme know.
 
 
 
-#**Version 1.0**
+# **Version 1.0**
 
 # Known Issues (v 1.0) -
 
