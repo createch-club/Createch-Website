@@ -10,6 +10,7 @@ Website for the Tinkering Club of Ryan Vasant Kunj
 > 3. Juttered Scrolling Occasionally 
 > 4. Menu page on mobile is not in the centre.
 > 5. [new] Images Don't Load in Properly in a few specific places.
+> 6. [new] Overlap in ATL Innovations Section on Mobile
 
 # Fixes (v 1.5)
 
@@ -45,7 +46,7 @@ If you find any other bugs apart from this letme know.
 
 In short Mobile View is messed up.
 
-#Pending Work -
+# Pending Work -
 
 > 1. Categories Page
 > 2. Blogs Page
